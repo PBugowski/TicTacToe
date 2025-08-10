@@ -6,12 +6,9 @@ Players take turns placing **noughts (O)** and **crosses (X)** on a 3x3 grid unt
 ---
 
 ## 📷 Screenshots
-
-screenshots/TicTacToeSS1.png
-
-screenshots/TicTacToeSS2.png
-
-screenshots/TicTacToeSS3.png 
+![screenshot](screenshots/TicTacToeSS1.png)
+![screenshot](screenshots/TicTacToeSS2.png)
+![screenshot](screenshots/TicTacToeSS3.png)
 
 ---
 
